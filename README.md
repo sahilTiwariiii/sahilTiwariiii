@@ -1,16 +1,29 @@
-### Hi there 👋
+ Hi 👋, I'm Sahil Tiwari Gowda
+A passionate ML Engineer from India
+🔭 My latest projects: FinSight - Financial Insights at Your Fingertip, Email Campaign Generator - LLMOps
 
-<!--
-**sahilTiwariiii/sahilTiwariiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Deep learning, LLMOps
 
-Here are some ideas to get you started:
+💪 Currently Working at Pipe Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 You can find me on LinkedIn here
+
+🐥 I'm also on Twitter
+
+💬 Ask me about Machine Learning, MLOps, NLP, LLMs, Deep Learning, Data Science
+
+📫 You can reach out to me at vishwas.g217@gmail.com
+
+📄 Know about my experiences
+
+Connect with me:
+vishwasaitech vishwasgowda217
+
+Languages and Tools:
+python pytorch scikit_learn pandas postgresql aws docker git java linux mysql seaborn langchain streamlit fastapi
+
+vishwasg217
+
+vishwasg217
+
+Pinned
