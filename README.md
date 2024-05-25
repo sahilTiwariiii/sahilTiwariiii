@@ -12,18 +12,12 @@ A passionate ML Engineer from India
 
 💬 Ask me about Machine Learning, MLOps, NLP, LLMs, Deep Learning, Data Science
 
-📫 You can reach out to me at vishwas.g217@gmail.com
+📫 You can reach out to me at sahiltiwari1222@gmail.com
 
 📄 Know about my experiences
 
-Connect with me:
-vishwasaitech vishwasgowda217
+
 
 Languages and Tools:
 python pytorch scikit_learn pandas postgresql aws docker git java linux mysql seaborn langchain streamlit fastapi
 
-vishwasg217
-
-vishwasg217
-
-Pinned
