@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.aboutusnavigationbutton{
+    height: 40px;
+    width: 133.781px;
+    /* display: inline-block; */
+    background-color: #1D3443;
+    margin: auto;
+    border-radius: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aboutmaincontainerr{
+    max-width: 1200px;
+    margin-inline: auto;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.aboutusorangelinejj{
+    width: 105px;
+	height: 2px;
+	background-color: #ff7010;
+	margin-top: -12px;
+}
+.inabouthomebutton{
+    font-size: 14px;
+	/* line height for giving the space beween two lines */
+	line-height: 18px;
+	font-family: "Inter", sans-serif;
+	color: #cee1e8;
+}
+.inaboutaboutbutton{
+    font-size: 14px;
+	/* line height for giving the space beween two lines */
+	line-height: 18px;
+	font-family: "Inter", sans-serif;
+	color: #cee1e8;
+}
+.inaboutheading{
+    font-size: 26px;
+    line-height: 31px;
+    font-weight: 400;
+	font-family: "Philosopher", sans-serif;
+	color: #cee1e8;
+}
+.aboutusimagecontainer{
+    height: 505px;
+    width: 463px;
+    padding-left: 125px;
+}
+.imagecontainerandparagraphabout{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    padding-top: 80px;
+}
+.knowmoreaboutus{
+    font-size: 36px;
+    line-height: 40px;
+    font-weight: 400;
+	font-family: "Philosopher", sans-serif;
+	color: #cee1e8;
+    margin-top: -4px;
+    text-align: start;
+}
+.aboutusparagraphtagsss{
+    font-size: 14px;
+	/* line height for giving the space beween two lines */
+	line-height: 28px;
+	font-family: "Inter", sans-serif;
+	color: #cee1e8;
+}
+.aboutusparagraphcontainer{
+    padding-right: 125px;
+    padding-left: 15px;
+    text-align: start;
+}
+.callusmeaboutus{
+    display: flex;
+    background-color: #17384e;
+    border-radius: 10px;
+    padding: 25px 25px;
+    margin-top: 40px;
+    align-items: center;
+    max-width: 400px;
+}
+.orangecircleofaboutsphone{
+    width: 65px;
+    height: 65px;
+    background-color: #ff7010;
+    /* background-color: var(--secondary-color); */
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 25px;
+    position: relative;
+}
+.orangecircleofaboutsphone::before{
+    position: absolute;
+    left: -7px;
+    top: -7px;
+    bottom: -7px;
+    right: -7px;
+    border: 1.5px dashed #ff7010;
+    content: "";
+    border-radius: 100%;
+}
+
+.ustctatnt{
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 400;
+	font-family: "Philosopher", sans-serif;
+	color: #cee1e8;
+    margin-bottom: 4px;
+}
+.assscallorange{
+    color: #ff7010;
+    font-size: 34px;
+    line-height: 37px;
+    font-weight: 700;
+	font-family: "Philosopher", sans-serif;
+    margin: 0;
+}
+.aboutususaimage::after {
+    position: absolute;
+    content: "";
+    top: 95px;
+    right: 84px;
+    background-color: #17384e;
+    /* background-color: var(-/#17384e); */
+    width: 420px;
+    height: 450px;
+    z-index: -1;
+}
